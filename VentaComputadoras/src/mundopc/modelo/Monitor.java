@@ -1,4 +1,4 @@
-package mundopc.Modelo;
+package mundopc.modelo;
 
 
 class Monitor{

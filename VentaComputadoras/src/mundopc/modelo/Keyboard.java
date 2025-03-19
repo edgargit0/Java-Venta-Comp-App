@@ -1,4 +1,4 @@
-package mundopc.Modelo;
+package mundopc.modelo;
 
 // Inheritance
 class Keyboard extends InputDevice{

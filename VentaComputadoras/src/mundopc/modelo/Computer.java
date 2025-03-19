@@ -1,6 +1,6 @@
-package mundopc.Modelo;
+package mundopc.modelo;
 
-class Computer{
+public class Computer{
     private final int idComputer;
     private String name;
     private Monitor monitor;

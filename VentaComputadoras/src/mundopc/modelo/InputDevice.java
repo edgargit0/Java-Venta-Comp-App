@@ -1,4 +1,4 @@
-package mundopc.Modelo;
+package mundopc.modelo;
 
 // Computer Sales App
 class InputDevice{
