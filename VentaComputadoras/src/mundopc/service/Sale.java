@@ -4,7 +4,7 @@ import mundopc.modelo.Computer;
 import java.util.List;
 import java.util.ArrayList;
 
-class Sale{
+public class Sale{
     private final int idSale;
     private final List<Computer> computers;
     private static int sale_counter;

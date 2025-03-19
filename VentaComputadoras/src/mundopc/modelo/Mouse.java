@@ -1,6 +1,6 @@
 package mundopc.modelo;
 
-class Mouse extends InputDevice{
+public class Mouse extends InputDevice{
     private final int idMouse;
     private static int mouse_counter;
     

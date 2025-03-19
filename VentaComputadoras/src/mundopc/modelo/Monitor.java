@@ -1,7 +1,7 @@
 package mundopc.modelo;
 
 
-class Monitor{
+public class Monitor{
     private final int idMonitor;
     private String brand;
     private double size;

@@ -1,7 +1,7 @@
 package mundopc.modelo;
 
 // Inheritance
-class Keyboard extends InputDevice{
+public class Keyboard extends InputDevice{
     private final int idKeyboard;
     private static int Keyboard_counter;
     
